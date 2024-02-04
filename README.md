@@ -1,8 +1,14 @@
 # tachiyomi-Mihon-extensions
 This version contains some extensions that I worked on
 # Download
-Update to the latest version of Tachiyomi/Mihon
-Go to Settings > Browse > Extension repos > Add
-Enter the following URL and accept: https://raw.githubusercontent.com
-Go to the extension management screen, refresh it.
-After installing an extension, you need to approve it by tapping on the 'Trust' button.
+1_ Update to the latest version of Tachiyomi/Mihon
+
+
+
+
+2_ Download and install the extension from: https://github.com/AlMohnad/tachiyomi-Mihon-extensions/tree/main/extensions/repo
+
+
+
+
+fter installing any unofficial extension, you must manually enable the extension in Tachiyomi.
