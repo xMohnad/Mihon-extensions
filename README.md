@@ -8,7 +8,7 @@ This version contains some extensions that I worked on
 
 
 
-2_ Download and install the extension from: https://github.com/AlMohnad/tachiyomi-Mihon-extensions/tree/main/extensions/repo
+2_ Download and install the extension from: [Here](https://github.com/xMohnad/tachiyomi-Mihon-extensions/tree/main/extensions/repo)
 
 
 
