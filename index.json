@@ -1,1 +1,1 @@
-[{"name":"Tachiyomi: PewPiece","pkg":"eu.kanade.tachiyomi.extension.ar.PewPiece","apk":"tachiyomi-ar.PewPiece-v1.4.37.apk","lang":"ar","code":1,"version":"1.4.37","nsfw":0,"sources":[{"name":"PewPiece","lang":"ar","id":"1","baseUrl":"https://pewpiece.com"}]}
+[{"name":"Tachiyomi: PewPiece","pkg":"eu.kanade.tachiyomi.extension.ar.pewpiece","apk":"tachiyomi-ar.pewpiece-v1.4.37.apk","lang":"ar","code":1,"version":"1.4.37","nsfw":0,"sources":[{"name":"PewPiece","lang":"ar","id":"1","baseUrl":"https://pewpiece.com"}]}
