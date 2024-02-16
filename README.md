@@ -9,9 +9,10 @@
 
 بعد التحديث انتقل الى  ...المزيد --›الإعدادات --›تصفح --›مستودع الإضافات --›+أضف 
 
-أدخل  `https://raw.githubusercontent.com/xMohnad/tachiyomi-Mihon-extensions/main/index.min.json`
-
-
+أدخِل:
+```
+https://raw.githubusercontent.com/xMohnad/tachiyomi-Mihon-extensions/main/index.min.json
+```
 
 
 
