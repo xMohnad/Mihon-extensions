@@ -7,7 +7,7 @@
 
 عند الانتقال إلى الموقع اضغط على `إضافة مستودع` وسيتم إضافة المصادر إلى التطبيق
 
-[![Add Mihon Extensions](https://img.shields.io/badge/Tachiyomi-Add%20Mihon%20Extensions-green.svg)](https://xmohnad.github.io/add-Extensions/)
+[![Add Mihon Extensions](https://img.shields.io/badge/Add%20to%20Tachiyomi-Mihon%20Extensions-blue?style=for-the-badge&logo=android)](https://xmohnad.github.io/add-Extensions/)
 
 
 **أو انتقل إلى  ...المزيد --›الإعدادات --›تصفح --›مستودع الإضافات --›+أضف**
