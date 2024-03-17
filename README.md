@@ -1,24 +1,23 @@
-
-
 # Tachiyomi-Mihon-Extensions
 **سأرفق هنا المصادر التي عملت عليها**.
 
 # إضافة المصادر الى التطبيق.
 
-1 تأكد من تحديث Tachiyomi/Mihon إلى الإصدار الأحدث 
+تأكد من تحديث Tachiyomi/Mihon إلى الإصدار الأحدث
 
-**بعد التحديث انتقل إلى  ...المزيد --›الإعدادات --›تصفح --›مستودع الإضافات --›+أضف**
+عند الانتقال إلى الموقع اضغط على `إضافة مستودع` وسيتم إضافة المصادر إلى التطبيق
+
+[![Add Mihon Extensions](https://img.shields.io/badge/Tachiyomi-Add%20Mihon%20Extensions-green.svg)](https://xmohnad.github.io/add-Extensions/)
+
+
+**أو انتقل إلى  ...المزيد --›الإعدادات --›تصفح --›مستودع الإضافات --›+أضف**
 
 أدخِل:
 ```
 https://raw.githubusercontent.com/xMohnad/tachiyomi-Mihon-extensions/main/index.min.json
 ```
 
-
-
-
 # تحميل المصادر 
-
 
 إذا لمْ يعمل يمكنك تثبيتها من هنا [apk](https://github.com/xMohnad/tachiyomi-Mihon-extensions/tree/main/apk) لكن سيظهر `قديم جدًا` تحت اسم المصدر ( لن يؤثر على الأداء).
 
